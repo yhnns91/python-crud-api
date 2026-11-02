@@ -1,0 +1,10 @@
+.git
+.gitignore
+README.md
+Jenkinsfile
+contoh-request
+__pycache__
+*.pyc
+.env
+jenkins
+scripts
